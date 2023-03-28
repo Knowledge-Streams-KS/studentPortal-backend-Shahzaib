@@ -1,0 +1,10 @@
+{
+  "db": {
+    "database": "universityPortal",
+    "username": "postgres",
+    "password": "123456",
+    "logging": false,
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
